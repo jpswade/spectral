@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "packages": {
+    "@stoplight/better-ajv-errors": {
+      "signature": "4d11498e26b4a9a72e28de738113dcf8",
+      "file": true,
+      "replaced": "0.0.3"
+    }
+  }
+}
